@@ -25,3 +25,9 @@ function getNumber(number) {
 
 	return null
 }
+
+console.log(getNumber(13));
+console.log(getNumber(12));
+console.log(getNumber(26));
+console.log(getNumber(-1));
+console.log(getNumber(1));
